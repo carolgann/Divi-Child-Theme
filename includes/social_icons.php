@@ -1,3 +1,4 @@
+//*** Instructions https://www.youtube.com/watch?time_continue=258&v=kH9eVJBeUsg ***//
 <ul class="et-social-icons">
 
 <?php if ( 'on' === et_get_option( 'divi_show_facebook_icon', 'on' ) ) : ?>
